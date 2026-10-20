@@ -32,7 +32,7 @@ const Team: NextPage = () => {
           </div>
         </div>
         <div className='w-full md:w-1/2 mt-12 md:mt-0'>
-          <img src="/team/ricardo_carvalho.jpeg" className="rounded-full w-32 h-32 mx-auto" />
+          <img src="/team/ricardo_carvalho.jpeg" alt="Ricardo Carvalho" className="rounded-full w-32 h-32 mx-auto" />
           <h3 className='text-center mt-4'>Ricardo Carvalho</h3>
           <p className='text-center text-gray-500'>Co-Founder & Managing Partner</p>
           <div className='flex justify-center mt-4'>
