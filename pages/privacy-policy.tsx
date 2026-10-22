@@ -70,10 +70,8 @@ const PrivacyPolicy: NextPage = () => {
 
         <h3 className='text-xl font-normal mt-8'>Cookies Policy</h3>
         <p className='mt-4 font-thin'>
-          The platform uses both its own and third-party cookies, that is, files that contain session data and that improve the usability of the website. Cookies are essential for the correct functioning of the website, and at no time can they jeopardize the user’s safety. Navigation on the platform itself implies acceptance of this cookie policy.<br />
-          The platform only uses cookies that are strictly necessary and used to provide correct navigation, analytical cookies whose function is to anonymously capture statistical information about navigation on the platform. Third party cookies are also used, which are not managed by TRIPLEOAK and which are needed as an external complement to offer links with social networks.<br />
-          The user expressly accepts, by using this platform, the processing of the information collected in the manner and for the purposes mentioned above.<br />
-          The user can select the type of cookies in the consent declaration, reject the processing of data and information, refusing the use of cookies, through the appropriate configuration of their browser. You can also, at any time, delete the cookies stored on your computer.
+          The platform uses cookies that are strictly necessary for navigation and, with your consent, Google Analytics cookies to collect navigation statistics.<br />
+          We only load Google Analytics after you select Accept in the consent banner. You may reject analytics cookies without affecting your use of the site.
         </p>
 
       </div>
